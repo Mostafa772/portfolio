@@ -130,11 +130,13 @@
       </div>
       <aside>
         <div style="background:var(--card);padding:14px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)">
-          <h4 style="margin:0 0 8px 0">Featured</h4>
-          <p style="margin:0;color:var(--muted);font-size:14px">Thesis: Classification of EEG Data With Federated Learning. I write reproducible code with notebooks and CI.</p>
+          <h4 style="margin:0 0 8px 0">Contacts</h4>
+          <p style="margin:0;color:var(--muted);font-size:14px">mostafa2222.me@gmail.com</p>
           <div style="display:flex;gap:8px;margin-top:12px">
             <a class="btn" href="https://github.com/mostafa772">GitHub</a>
-            <a class="btn" href="mailto:you@example.com">Email</a>
+            <a class="btn" href="https://www.linkedin.com/in/mostafa-eid772/">LinkedIn</a>
+            <a class="btn" href="https://www.kaggle.com/mostafa772">Kaggle</a>
+            <a class="btn" href="mailto:mostafa2222.me@gmail.com">Email</a>
           </div>
         </div>
       </aside>
@@ -164,6 +166,16 @@
           </div>
         </article>
 
+        <article class="card" data-tags="ml sys">
+          <img loading="lazy" src="/assets/projects/rl-thumb.jpg" alt="RL agent visualisation">
+          <h3>NetHack RL agent</h3>
+          <p>Reinforcement learning agent trained on NetHack with distributed replay and curriculum learning.</p>
+          <div class="meta">
+            <div class="tags"><span class="tag">Gymnasium</span><span class="tag">RL</span></div>
+            <div><button class="btn" data-open>Details</button></div>
+          </div>
+        </article>
+        
         <article class="card" data-tags="ml sys">
           <img loading="lazy" src="/assets/projects/rl-thumb.jpg" alt="RL agent visualisation">
           <h3>NetHack RL agent</h3>
@@ -211,7 +223,7 @@
 
     <footer id="contact">
       <div>Mostafa Eid · Master's Student — University of Pisa</div>
-      <div style="margin-top:8px;color:var(--muted)">Prefer email for professional inquiries: <a href="mailto:you@example.com">you@example.com</a></div>
+      <div style="margin-top:8px;color:var(--muted)">mostafa2222.me@gmail.com</a></div>
     </footer>
   </div>
 
