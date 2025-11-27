@@ -119,10 +119,10 @@
         <div class="card">
           <h4 style="margin-top:0">About</h4>
           <p class="muted">Master's Student in Computer Science @ University of Pisa. Thesis: Classification of EEG Data With Federated Learning.</p>
-          <div style="margin-top:12px"><a class="btn" href="https://www.linkedin.com">LinkedIn</a> <a class="btn" href="https://github.com/Mostafa772/portfolio">GitHub</a></div>
+          <div style="margin-top:12px"><a class="btn" href="https://www.linkedin.com">LinkedIn</a> <a class="btn" href="https://github.com/Mostafa772">GitHub</a></div>
         </div>
-
-        <div class="card" style="margin-top:14px">
+ <!-- style="margin-top:14px" -->
+        <div class="card">
           <h4 style="margin-top:0">Contact</h4>
           <p class="muted">Prefer email for professional inquiries. Or link your contact form here.</p>
           <div style="margin-top:8px"><a class="btn" href="#contact">Say hello</a></div>
