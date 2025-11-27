@@ -98,7 +98,6 @@
           <div class="projects-grid" id="projects-grid" aria-live="polite">
             <!-- Projects are rendered here from JS -->
           </div>
-          <div class="edit-note">To edit projects: open the <code>projects</code> array in the inline script below and change title/description/tech/image/url as needed.</div>
         </div>
 
         <section id="skills" style="margin-top:18px">
