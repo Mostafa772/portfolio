@@ -124,9 +124,7 @@
           <span class="pill">Flask</span>
           <span class="pill">SQL</span>
         </div>
-        <div style="margin-top:12px">
-          <a class="btn" href="#projects">See projects</a>
-        </div>
+
       </div>
       <aside>
         <div style="background:var(--card);padding:8px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)">
