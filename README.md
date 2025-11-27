@@ -129,7 +129,7 @@
         </div>
       </div>
       <aside>
-        <div style="background:var(--card);padding:14px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)">
+        <div style="background:var(--card);padding:8px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)">
           <h4 style="margin:0 0 8px 0">Contacts</h4>
           <p style="margin:0;color:var(--muted);font-size:14px">mostafa2222.me@gmail.com</p>
           <div style="display:flex;gap:8px;margin-top:12px">
