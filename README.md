@@ -108,7 +108,7 @@
         <a href="#projects">Projects</a>
         <a href="#skills">Skills</a>
         <a href="#contact">Contact</a>
-        <a class="cta" href="/cv.pdf">View CV</a>
+        <a class="cta" href="assets/documents/Mostafa_Eid_CV.pdf" target="_blank" rel="noopener noreferrer">View CV</a>
       </nav>
     </header>
 
