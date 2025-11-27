@@ -1,4 +1,3 @@
-```markdown
 # Mostafa Eid
 
 **Master's Student in Computer Science @ University of Pisa** 📍 Pisa, Italy
