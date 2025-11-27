@@ -1,29 +1,49 @@
-# Mostafa Eid - Portfolio
+```markdown
+# Mostafa Eid
 
-🎓 **Master's Student in Computer Science @ University of Pisa**
-📍 Pisa, Italy
+**Master's Student in Computer Science @ University of Pisa** 📍 Pisa, Italy
+
+[View CV / Resume](./cv.md) | [LinkedIn](https://www.linkedin.com/in/mostafa-eid-mostafa2222/) | [GitHub](https://github.com/Mostafa772)
+
+---
 
 ## 👋 About Me
-I am a Computer Science graduate from MIPT (Moscow) and currently a Master's student in Italy. I specialize in Machine Learning, specifically in Neural Networks and Federated Learning for biomedical data.
+I am a Computer Science graduate from MIPT (Moscow) and currently a Master's student in Italy. I specialize in **Machine Learning**, specifically in **Federated Learning** for biomedical data.
 
-## 🛠 Tech Stack
-- **Languages:** Python, SQL, Rust
-- **AI/ML:** PyTorch, TensorFlow, Scikit-Learn
-- **Dev:** Docker, Flask, Git
+---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Neural Network From Scratch](LINK_TO_REPO)
-Implemented a Feed-Forward NN using only NumPy to understand backpropagation and activation functions at a mathematical level. 
-- **Result:** 99% Accuracy on MONK1 dataset.
+### 🧠 [Neural Network From Scratch](./projects/neural-network.md)
+A pure NumPy implementation of a Feed-Forward Neural Network. I built this to master the mathematics behind backpropagation and optimization algorithms.
+* **Tech:** Python, NumPy, Math
+* **Result:** 99% Accuracy on MONK1 dataset.
+* [Read Case Study →](./projects/neural-network.md)
 
-### 🌍 [Seismic.py](LINK_TO_REPO)
-A Python API re-implementation of core Rust-based seismic analysis tools, designed for seamless ML integration.
+### 🌍 [Seismic.py Library](./projects/seismic-py.md)
+Re-implemented core functionalities of a Rust-based seismic library into a modular Python API for easier ML integration.
+* **Tech:** Python, API Design
+* [Read Case Study →](./projects/seismic-py.md)
 
-### 📊 [NYC Jobs Analyzer](LINK_TO_REPO)
-A Dockerized Flask application that ingests and analyzes data from the NYC Open Data API.
+### 📊 [NYC Jobs Analyzer](./projects/nyc-jobs.md)
+A Full-Stack analytics application. Built a RESTful API to ingest NYC Open Data, developed analytics endpoints, and containerized the app.
+* **Tech:** Flask, Docker, SQLAlchemy
+* [Read Case Study →](./projects/nyc-jobs.md)
 
-## 📫 Contact
-- **Email:** mostafa2222.me@gmail.com
-- **LinkedIn:** [mostafa-eid-mostafa2222](https://www.linkedin.com/in/mostafa-eid-mostafa2222/)
-- **Kaggle:** [mostafaeid](https://www.kaggle.com/mostafaeid)
+---
+
+## 🛠 Technical Skills
+
+| Domain | Skills |
+| :--- | :--- |
+| **Languages** | Python, SQL, Rust (Basic), Bash |
+| **Machine Learning** | PyTorch, TensorFlow, Scikit-learn, Pandas |
+| **Engineering** | Docker, Flask, Git, GitHub Actions |
+
+---
+
+## 🎓 Education
+
+* **M.Sc. Computer Science** - University of Pisa (2024 - Present)
+* **B.Sc. Computer Science** - MIPT (2020 - 2024)
+    * *Thesis:* Classification of EEG Data With Federated Learning.
