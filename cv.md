@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum Vitae
 ---
-
+[🏠 Home](../README.md) | [📂 Projects](../README.md#featured-projects) | [📄 CV](../cv.md)
 # Curriculum Vitae
 
 <a href="./assets/documents/Mostafa_Eid_CV.pdf" class="btn" target="_blank">Download PDF</a>

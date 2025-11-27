@@ -3,7 +3,7 @@ layout: default
 title: Neural Network From Scratch
 parent: Projects
 ---
-
+[🏠 Home](../README.md) | [📂 Projects](../README.md#featured-projects) | [📄 CV](../cv.md)
 [← Back to Home](../README.md)
 
 # Neural Network From Scratch in NumPy

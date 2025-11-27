@@ -4,3 +4,4 @@ plugins:
 
 title: Mostafa Eid 
 show_downloads: true
+style: assets/css/style.css

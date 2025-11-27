@@ -1,0 +1,1 @@
+[🏠 Home](../README.md) | [📂 Projects](../README.md#featured-projects) | [📄 CV](../cv.md)

@@ -1,3 +1,4 @@
+<img src="./assets/images/profile.jpg" style="border-radius: 50%; width: 150px; display: block; margin: 0 auto;">
 # Mostafa Eid
 
 **Master's Student in Computer Science @ University of Pisa** 📍 Pisa, Italy
