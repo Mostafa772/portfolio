@@ -136,7 +136,6 @@
             <a class="btn" href="https://github.com/mostafa772">GitHub</a>
             <a class="btn" href="https://www.linkedin.com/in/mostafa-eid772/">LinkedIn</a>
             <a class="btn" href="https://www.kaggle.com/mostafa772">Kaggle</a>
-            <a class="btn" href="mailto:mostafa2222.me@gmail.com">Email</a>
           </div>
         </div>
       </aside>
