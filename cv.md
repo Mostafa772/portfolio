@@ -5,10 +5,11 @@ title: Curriculum Vitae
 
 # Curriculum Vitae
 
-[Download PDF](../assets/documents/Mostafa_Eid_CV.pdf){: .btn}
+<a href="./assets/documents/Mostafa_Eid_CV.pdf" class="btn" target="_blank">Download PDF</a>
 
-<div style="width: 100%; height: 800px;">
-    <iframe src="../assets/documents/Mostafa_Eid_CV.pdf" width="100%" height="100%" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="../assets/documents/Mostafa_Eid_CV.pdf">Download PDF</a>
-    </iframe>
+<div style="width: 100%; height: 800px; margin-top: 20px;">
+    <object data="./assets/documents/Mostafa_Eid_CV.pdf" type="application/pdf" width="100%" height="100%">
+        <p>Your browser does not support PDF embedding. 
+        <a href="./assets/documents/Mostafa_Eid_CV.pdf">Click here to download the PDF.</a></p>
+    </object>
 </div>
